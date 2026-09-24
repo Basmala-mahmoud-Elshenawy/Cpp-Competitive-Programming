@@ -46,7 +46,7 @@ Learn → Practice → Solve → Improve → ECPC 🏆
 
 ## 👩‍💻 About Me
 
-I'm **Salma Waleed**, a Computer Science student learning Competitive Programming and working on improving my problem-solving skills.
+I'm **Basmla Mahmoud Elshenawy**, a Computer Science student learning Competitive Programming and working on improving my problem-solving skills.
 
 ---
 
