@@ -47,10 +47,48 @@ using namespace std ;
 //  cout << " Enter yor birthday : " ;
 //  cin >> birthday;
 //  cout << " your Age is :  " << currentAge - birthday ;
-//  cout << " \nage in dayes : " << age_in_dayes ;
-//  cout << " \nage _in_houres : " << age_in_houres ;
+//  cout << " \n age in dayes : " << age_in_dayes ;
+//  cout << " \n age _in_houres : " << age_in_houres ;
  
+
+/* 
+    !     - Application To Create
+    !       --- Create App Ask You To Type Number Of Kilobytes
+    !        --- Write 3 Lines Contains
+    !        ------ [1] The Number Of Kilobytes That User Input
+    !        ------ [2] The Number Of Bytes
+    !        ------ [3] The Number Of Bits
+    */
  
+// int num;
+// cout << "Enter your Number of Kilobytes : " << "Kilobytes";
+// cin >> num ;
+
+// int Bytes = num * 1024;
+// int Bits = Bytes * 8 ;
+// cout << " \nThr Number of Bytes : " << Bytes  <<"Bytes";
+// cout << " \nThr Number of Bits : " << Bits << "Bits" ;
+
+
+/*
+*      --- Create App To Convert ASCII To Character
+*      --- Create App To Convert Character To ASCII
+
+*/
+
+// int ASCII  ;
+// cout << "Enter  your ASCII To Character : " ;
+// cin >> ASCII ;
+// cout << "  \nyour Character is : "  << char(ASCII);
+// char Character ;
+// cout << " \nCreate App To Convert Character To ASCII : " ;
+// cin >>Character ;
+// cout << " your ASCII is : " << int (Character);
+
+
+
+
+
 
 
 return 0;
