@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std ;
+
  int main()
  
  {
@@ -85,11 +86,77 @@ using namespace std ;
 // cin >>Character ;
 // cout << " your ASCII is : " << int (Character);
 
+// bool num_1 = 100;
+// bool num_2 = 0;
+// cout << num_1  <<endl;
+// cout << num_2 <<endl;
 
 
+//!=======================================================================
+// while (true)
+//     {
+
+// int num_1 ;
+// cout<< " Enter your  first number blease : " ;
+// cin>> num_1 ;
+
+// char operation ;
+// cout << "\n Chose your Operation (Sum  ( + ), Multi ( * ) , Dive ( / ), Sub ( - )  ) : " ;
+// cin>> operation;
+
+// int num_2 ;
+// cout<< " \nEnter your  second number blease : " ;
+// cin>> num_2 ;
+
+// switch (operation){
+ 
+//     case '+':
+//         cout << "\nResult = " << num_1 + num_2 << endl;
+//         break;
+
+//     case '*':
+//         cout << " Result = " << num_1 * num_2;
+//         break;
+
+//     case '/':
+//         if (num_2 != 0)
+//         {
+//             cout << "\n Result = " << num_1 / num_2;
+//         }
+        
+//         else
+//         {
+//             cout << "Error in operation";
+//         }
+//         break;
+
+//     case '-':
+//         cout << "\nResult = " << num_1 - num_2;
+//         break;
+// }
+//         string input;
+
+//         cout << "\n\nPress Enter to run again or type 'exit' to quit: ";
+
+//         cin.ignore();
+//         getline(cin, input);
+
+//         if (input == "exit")
+//         {
+//             break;
+//         }
+
+//         cout << "\n-------------------------\n\n";
+//     }
+
+//     return 0;
+// }
 
 
+/* while (true){
+    code;
 
-
-return 0;
  }
+ input.nextline{};
+ جمله الطباعه ("press enter to run again or type 'exit' to quite ")
+ */
